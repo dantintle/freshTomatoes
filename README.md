@@ -10,3 +10,5 @@ Comes with movieTitle, movieStoryline, posterImage (takes URL), trailerURL, and 
 In entertainmentCenter.py, pick what movies you want displayed on the site. At the bottom there is a function imported from the fresh_tomatoes.py, which takes the movies list at the bottom and iterates it onto the page.
 
 Uses Bootstrap for styling, with certain styles added in head.
+
+Tomato.jpg for spinning "O" in title
